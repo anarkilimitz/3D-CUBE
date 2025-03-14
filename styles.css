@@ -8,6 +8,10 @@ body {
     background-color: #f0f0f0;
 }
 
+img {
+  opacity: 70%;
+}
+
 .scene {
     width: 200px;
     height: 200px;
@@ -16,7 +20,7 @@ body {
 }
 
 .cube {
-    width: 100%;
+    width: 500px;
     height: 100%;
     position: absolute;
     transform-style: preserve-3d;
@@ -29,7 +33,7 @@ body {
     width: 200px;
     height: 200px;
     background: rgba(0, 0, 0, 0.8);
-    border: 2px solid #fff;
+    border: 0.1px solid #fff;
     display: flex;
     justify-content: center;
     align-items: center;
