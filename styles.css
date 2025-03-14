@@ -20,7 +20,7 @@ img {
 }
 
 .cube {
-    width: 500px;
+    width: 200px;
     height: 100%;
     position: absolute;
     transform-style: preserve-3d;
